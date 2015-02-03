@@ -1,204 +1,228 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 
-
-/**
- * Basic styling
- */
-body {
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    color: $text-color;
 }
-
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-}
-
-
-
-/**
- * Images
- */
-img {
-    max-width: 100%;
-    vertical-align: middle;
-}
-
-
-
-/**
- * Figures
- */
-figure > img {
-    display: block;
-}
-
-figcaption {
-    font-size: $small-font-size;
-}
-
-
-
-/**
- * Lists
- */
-ul, ol {
-    margin-left: $spacing-unit;
-}
-
-li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
-}
-
-
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-family: $header-font-family;
+    text-transform: uppercase;
+    line-height: 1.1em;
+    color: #444;
 }
 
-
-
-/**
- * Links
- */
 a {
-    color: $brand-color;
     text-decoration: none;
+    color: $link-color;
+}
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
 
-    &:visited {
-        color: darken($brand-color, 15%);
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#layout {
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    top: auto;
+    margin: 3em auto;
+}
+.sidebar {
+    background: $brand-color;
+    color: #fff;
+
+    .brand-title,
+    .brand-tagline {
+        margin: 0;
+    }
+    .brand-title {
+        text-transform: uppercase;
+        font-size: 1.5em;
+        a {
+            color: white;
+            &:hover {
+                color: $link-color;
+                text-decoration: none;
+            }
+        }
+    }
+    .brand-tagline {
+        font-weight: 300;
+        color: $grey-color-light;
+        font-size: 1.1em;
     }
 
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
+    .nav-list {
+        margin: 0.5em 0;
+        padding: 0;
+        list-style: none;
+        display: inline-block;
+    }
+    .nav-item {
+        display: inline-block;
+        zoom: 1;
+    }
+    .nav-item a {
+        background: transparent;
+        border: 2px solid $grey-color-light;
+        color: #fff;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        font-size: 0.5em;
+        font-family: $header-font-family;
+        padding: .4em .8em;
+        -webkit-transition: all 0.25s ease;
+        -moz-transition: all 0.25s ease;
+        transition: all 0.25s ease;
+    }
+    .nav-item a:hover {
+        background: $grey-color-light;
+        text-decoration: none;
+        color: $text-color
+    }
+    .nav-item a:focus {
+        text-decoration: none;
     }
 }
 
+.content {
+    padding: 2em 1em 0;
 
+    .page-title {
+        margin: 0 0 1em;
+        text-align: center;
+    }
 
-/**
- * Blockquotes
- */
-blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit / 2;
-    font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
-
-    > :last-child {
+    .post-title {
+        font-size: 1.5em;
         margin-bottom: 0;
     }
+
+    .post-meta, .original {
+        font-size: $small-font-size;
+        margin: 0;
+        font-family: $header-font-family;
+        text-transform: uppercase;
+    }
+
+    .post-meta {
+        color: #999;
+    }
+
+    .original {
+        font-weight: bold;
+        color: #444;
+    }
+
+    .promo {
+        margin-top: 30px;
+    }
+
+    article {
+        h2 {
+            font-size: 1.2em;
+            color: #444;
+        }
+        code {
+            background-color: #f9f9f9;
+        }
+    }
+
+    pre {
+        background-color: #f9f9f9;
+        padding: 1em;
+
+        code {
+            font-size: 16px;
+        }
+    }
 }
 
-
-
-/**
- * Code formatting
- */
-pre,
-code {
-    font-size: 15px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+.project, .post-preview {
+    margin-bottom: 2em;
+}
+.app-info, .posts {
+    h2 {
+        margin: 0;
+    }
+    p {
+        font-size: 16px;
+    }
 }
 
-code {
-    padding: 1px 5px;
-}
+.resume {
+    .item {
+        margin-bottom: 2em;
 
-pre {
-    padding: 8px 12px;
-    overflow-x: scroll;
-
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
+        h3 {
+            margin: 0;
+        }
+        h4 {
+            font-size: $small-font-size;
+            margin: 0;
+            font-family: $header-font-family;
+            text-transform: uppercase;
+            color: #999;
+        }
     }
 }
 
 
-
-/**
- * Wrapper
- */
-.wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    @extend %clearfix;
-
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+@media (min-width: 48em) {
+    .content {
+        .post, .posts {
+            padding: 0 5em 2em;
+        }
+        .post-title {
+            font-size: 2em;
+        }
     }
 }
 
+@media (min-width: 64em) {
+    .content {
+        padding: 2em 3em 0;
+        margin-left: 25%;
 
-
-/**
- * Clearfix
- */
-%clearfix {
-
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
+        .image {
+            padding-right: 2em;
+        }
     }
-}
 
+    .header {
+        margin: 80% 2em 0 0;
+        text-align: right;
+    }
 
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
+    .sidebar {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        .nav-list {
+            display: block;
+        }
+        .nav-item a {
+            font-size: 0.85em;
         }
     }
 }

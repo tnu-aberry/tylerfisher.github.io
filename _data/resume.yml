@@ -1,0 +1,34 @@
+experience:
+  - 
+    company: NPR
+    title: News Applications Developer
+    dates: "March 2014 - Present"
+  -
+    company: NPR
+    title: News Applications Intern
+    dates: "2014"
+  - 
+    company: Northwestern University Knight Lab
+    title: Undergraduate Fellow
+    dates: "2012 - 2014"
+  -
+    company: Medill School of Journalism
+    title: Teaching Assistant
+    dates: "Spring 2013, Spring 2014"
+  - 
+    company: Gannett Digital
+    title: Content Intern
+    dates: "2013"
+  - 
+    company: Chicago Tribune
+    title: News Applications Intern
+    dates: "2012"
+education:
+  -
+    school: Northwestern University
+    diploma: Bachelor's of Science in Journalism
+    graduation_date: "2014"
+  -
+    school: Armand Hammer United World College of the American West
+    diploma: International Baccalaureate
+    graduation_date: "2010"

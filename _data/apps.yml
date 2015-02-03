@@ -1,0 +1,73 @@
+--- 
+- 
+  date: "June 2012 - June 2013"
+  description: "SoundCite connects to SoundCloud and allows a user to create embeddable, inline audio clips like this. The tool is meant to be friction-free and usable by journalists and publishers with absolutely no programming experience."
+  image: soundcite.png
+  name: SoundCite
+  url: "http://soundcite.knightlab.com"
+- 
+  date: "April 2013 - May 2013, May 2014"
+  description: ""
+  image: housing.png
+  name: "North by Northwestern Housing Guide"
+  url: "http://apps.northbynorthwestern.com/housing"
+- 
+  date: "Fall 2013"
+  description: ""
+  image: learn.png
+  name: learn.knightlab.com
+  url: "http://learn.knightlab.com/"
+- 
+  date: "October 2013"
+  description: "News Developer First Projects compiles submissions of the first interactive news project published by various news developers, including employees of NPR, The New York Times, The Washington Post and other major organizations. They are uniformly terrible."
+  image: newsdevfirsts.png
+  name: "News Developer First Projects"
+  url: "http://newsdevfirsts.tumblr.com"
+- 
+  date: "February 3, 2014"
+  description: "My first project with the NPR Visuals Team, Wolves at the Door is a photo essay that uses natural ambient audio as a textural element."
+  image: wolves.png
+  name: "Wolves at the Door"
+  url: "http://apps.npr.org/wolves"
+- 
+  date: "February 2014"
+  description: "In preparation for a presentation, I was looking for convincing arguments written by smart people on why journalists should learn to code. While I found some, I wanted more, and I wanted more concise arguments."
+  image: why.png
+  name: "Why Should Journalists Code?"
+  url: "http://whyshouldjournalistscode.tumblr.com"
+- 
+  date: "March 6, 2014"
+  description: "America’s effort to bring home its war dead is slow, inefficient and stymied by outdated methods."
+  image: grave-science.png
+  name: "Grave Science"
+  url: "http://apps.npr.org/grave-science"
+- 
+  date: "April 3, 2014"
+  description: "As a member of the NPR Visuals Team, I developed Borderland, a series of 12 short stories about the U.S.-Mexico border. The stories are told in a slideshow format that puts images first, and the stories are told through a variety of methods."
+  image: borderland.png
+  name: Borderland
+  url: "http://apps.npr.org/borderland"
+- 
+  date: "September 2, 2014"
+  description: ""
+  image: mraps.png
+  name: "MRAPs And Bayonets: What We Know About The Pentagon's 1033 Program"
+  url: "http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program"
+- 
+  date: "September 2, 2014"
+  description: "New Orleans is home to the nation’s first all-charter district. Is this the future of education?"
+  image: nola.png
+  name: "The End of Neighbhorhood Schools"
+  url: "http://apps.npr.org/the-end-of-neighborhood-schools"
+- 
+  date: "November 4, 2014"
+  description: "Stream election results, data and news, NPR-style. Optimized for your TV, Chromecast or coffee table. #nprparty"
+  image: elections14-promo.png
+  name: "NPR Election Party"
+  url: "http://elections.npr.org"
+- 
+  date: "December 10, 2014"
+  description: "Put on your headphones and listen to more than 300 of NPR Music's favorite songs from 2014."
+  image: best-songs.png
+  name: "Songs We Love 2014"
+  url: "http://apps.npr.org/best-songs-2014"

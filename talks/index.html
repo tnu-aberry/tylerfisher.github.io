@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="posts">
+	{% for talk in site.data.talks %}
+	<div class="post-preview">
+		<h2><a href="{{ post.url }}">{{ talk.title }}</a></h2>
+		<p>{{ talk.description }}</p>
+	</div>
+	{% endfor %}
+</div>

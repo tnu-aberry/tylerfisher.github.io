@@ -1,0 +1,25 @@
+--- 
+- 
+  title: "How to Raise an Army"
+  description: "A lightning talk given at NICAR 2014 on bringing in new students to the Northwestern University Knight Lab. Watch the video of the presentation <a href='http://vimeo.com/91991108'>here.</a>"
+  url: "/nicar14"
+- 
+  title: "Intro to Github"
+  description: "I gave this lecture to Medill's Advanced Interactive and Design class for the purpose of having them use GitHub to work on team projects as well as class assignments."
+  url: "/git-intro"
+- 
+  title: "GitHub on the Command Line"
+  description: "In 50 minutes I taught some students the command line and GitHub. Yeah, it was rushed."
+  url: "/cmdline"
+- 
+  title: "Intro to APIs"
+  description: "This was a workshop in Medill's Advanced Interactive and Design class for students with JavaScript experience with interest in using APIs. The lecture uses the NYTimes Congress API as an example to get started."
+  url: "http://newsdevfirsts.tumblr.com"
+- 
+  title: "NPR's App Template"
+  description: "A brief introduction to the app template given at NICAR 2014. Take a look at the sample project I walk through <a href='http://github.com/tylerfisher/nicar-rulez'>here</a>."
+  url: "/nicar-app-template"
+- 
+  title: "How I Learned to Stop Worrying and Learn to Code"
+  description: "Given at Medill's Media Rewired, this talk introduced students to what programming for journalism means and why it is important."
+  url: "/stop-worrying"
