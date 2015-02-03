@@ -4,18 +4,21 @@
   description: "SoundCite connects to SoundCloud and allows a user to create embeddable, inline audio clips like this. The tool is meant to be friction-free and usable by journalists and publishers with absolutely no programming experience."
   image: soundcite.png
   name: SoundCite
+  repo: "nuknightlab/soundcite"
   url: "http://soundcite.knightlab.com"
 - 
   date: "April 2013 - May 2013, May 2014"
   description: ""
   image: housing.png
   name: "North by Northwestern Housing Guide"
+  repo: "tylerfisher/housing2"
   url: "http://apps.northbynorthwestern.com/housing"
 - 
   date: "Fall 2013"
   description: ""
   image: learn.png
   name: learn.knightlab.com
+  repo: "tylerfisher/learn"
   url: "http://learn.knightlab.com/"
 - 
   date: "October 2013"
@@ -28,6 +31,7 @@
   description: "My first project with the NPR Visuals Team, Wolves at the Door is a photo essay that uses natural ambient audio as a textural element."
   image: wolves.png
   name: "Wolves at the Door"
+  repo: "nprapps/wolves"
   url: "http://apps.npr.org/wolves"
 - 
   date: "February 2014"
@@ -46,28 +50,33 @@
   description: "As a member of the NPR Visuals Team, I developed Borderland, a series of 12 short stories about the U.S.-Mexico border. The stories are told in a slideshow format that puts images first, and the stories are told through a variety of methods."
   image: borderland.png
   name: Borderland
+  repo: "nprapps/borders-map"
   url: "http://apps.npr.org/borderland"
 - 
   date: "September 2, 2014"
   description: ""
   image: mraps.png
   name: "MRAPs And Bayonets: What We Know About The Pentagon's 1033 Program"
+  repo: "nprapps/leso"
   url: "http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program"
 - 
   date: "September 2, 2014"
   description: "New Orleans is home to the nation’s first all-charter district. Is this the future of education?"
   image: nola.png
   name: "The End of Neighbhorhood Schools"
+  repo: "nprapps/nola"
   url: "http://apps.npr.org/the-end-of-neighborhood-schools"
 - 
   date: "November 4, 2014"
   description: "Stream election results, data and news, NPR-style. Optimized for your TV, Chromecast or coffee table. #nprparty"
   image: elections14-promo.png
   name: "NPR Election Party"
+  repo: "nprapps/elections14"
   url: "http://elections.npr.org"
 - 
   date: "December 10, 2014"
   description: "Put on your headphones and listen to more than 300 of NPR Music's favorite songs from 2014."
   image: best-songs.png
   name: "Songs We Love 2014"
+  repo: "nprapps/bestsongs14"
   url: "http://apps.npr.org/best-songs-2014"
