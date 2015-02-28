@@ -80,3 +80,17 @@
   name: "Songs We Love 2014"
   repo: "nprapps/bestsongs14"
   url: "http://apps.npr.org/best-songs-2014"
+- 
+  date: "February 14, 2015"
+  description: "While looking through old family photos as a kid, John Fugelsang discovered something strange about his mother. Hint: It had to do with being Catholic."
+  image: lovestory.png
+  name: "A Brother And Sister Fall In Love"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/lovestory"
+- 
+  date: "February 20, 2015"
+  description: "The world is starting to forget about Ebola. The village of Barkedu can't."
+  image: barkedu.png
+  name: "Life After Death"
+  repo: "nprapps/barkedu"
+  url: "http://apps.npr.org/life-after-death"
