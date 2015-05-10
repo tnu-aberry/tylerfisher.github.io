@@ -14,7 +14,7 @@
 - 
   title: "Intro to APIs"
   description: "This was a workshop in Medill's Advanced Interactive and Design class for students with JavaScript experience with interest in using APIs. The lecture uses the NYTimes Congress API as an example to get started."
-  url: "http://newsdevfirsts.tumblr.com"
+  url: "/apis"
 - 
   title: "NPR's App Template"
   description: "A brief introduction to the app template given at NICAR 2014. Take a look at the sample project I walk through <a href='http://github.com/tylerfisher/nicar-rulez'>here</a>."
