@@ -3,32 +3,40 @@ experience:
     company: NPR
     title: News Applications Developer
     dates: "March 2014 - Present"
+    description: "I work as a full-stack developer on news applications for the NPR Visuals Team. We're a team of designers, developers, editors, photographers and producers that touch every visual in NPR's news operation. I focus on long-term projects and our ongoing series <a href='http://lookatthisstory.tumblr.com'>Look At This</a>."
   -
     company: NPR
     title: News Applications Intern
     dates: "2014"
+    description: "I joined NPR as an intern for the Visuals team. I was treated as a full member of the team, and had much of the same responsibilities listed above."
   - 
     company: Northwestern University Knight Lab
     title: Undergraduate Fellow
     dates: "2012 - 2014"
+    description: "I developed <a href='soundcite.knightlab.com'>Soundcite.js</a> and helped develop curriculum and programming for the Knight Lab to teach students at Northwestern how to code for journalism."
   -
     company: Medill School of Journalism
     title: Teaching Assistant
     dates: "Spring 2013, Spring 2014"
+    description: "For two quarters, I helped with the &ldquo;Unclass&rdquo;, a class designed to teach digital skills to a wide variety of students and skillsets. I taught workshops on topics like version control, basic JavaScript and data visualization."
   - 
     company: Gannett Digital
     title: Content Intern
     dates: "2013"
+    description: "I worked with the Content Team at Gannett digital building custom news applications and templated data visualizations for various Gannett properties."
   - 
     company: Chicago Tribune
     title: News Applications Intern
     dates: "2012"
+    description: "I worked with the Chicago Tribune News Applications Team, specifically focusing on the launch of the Chicago Tribune Member Center."
 education:
   -
     school: Northwestern University
-    diploma: Bachelor's of Science in Journalism
+    diploma: Bachelor of Science in Journalism
     graduation_date: "2014"
+    score: '3.66/4.0, cum laude'
   -
     school: Armand Hammer United World College of the American West
     diploma: International Baccalaureate
     graduation_date: "2010"
+    score: '36/42'

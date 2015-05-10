@@ -9,6 +9,7 @@ layout: default
 	<div class="job item">
 		<h3>{{ job.company }} ({{ job.dates }})</h3>
 		<h4>{{ job.title }}</h4>
+		<p>{{ job.description }}</p>
 	</div>
 	{% endfor %}
 
@@ -18,6 +19,7 @@ layout: default
 	<div class="school item">
 		<h3>{{ school.school }} ({{ school.graduation_date }})</h3>
 		<h4>{{ school.diploma }}</h4>
+		<p>{{ school.score }}</p>
 	</div>
 {% endfor %}
 </div>
