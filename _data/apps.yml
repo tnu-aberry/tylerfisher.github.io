@@ -94,3 +94,24 @@
   name: "Life After Death"
   repo: "nprapps/barkedu"
   url: "http://apps.npr.org/life-after-death"
+- 
+  date: "February 20, 2015"
+  description: "Thomas Allen Harris made an entire film about photos. In a two-minute audio short, he shares just one -- of his grandparents -- and explains what it has to do with the American family photo album."
+  image: harrisloves.jpg
+  name: "Photo I Love: Thomas Allen Harris"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/harrisloves"
+- 
+  date: "March 27, 2015"
+  description: "Not many people can say they've Tweeted selfies from a spacewalk. Astronaut Reid Wiseman can. Back on Earth, he shares a few of his #spacetweets -- and one photo he really loves."
+  image: spacetweets.jpg
+  name: "Photo I Love: Reid Wiseman"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/spacepix"
+- 
+  date: "April 27, 2015"
+  description: "Last year, 21,000 inmates were released in Huntsville, Texas -- one of the largest prison towns in America. For most of them, the gateway to the free world is the Huntsville Greyhound station. Here is the story by John Burnett, with photos by David Gilkey."
+  image: bus-station.jpg
+  name: "The Bus Station"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/bus-station"
