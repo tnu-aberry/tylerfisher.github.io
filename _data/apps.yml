@@ -115,3 +115,52 @@
   name: "The Bus Station"
   repo: "nprapps/lookatthis"
   url: "http://apps.npr.org/lookatthis/posts/bus-station"
+- 
+  date: "May 22, 2015"
+  description: "Scientist Chris Clark has been listening to whales for decades. But he says it's getting harder to hear them -- and for them to hear each other. Listen to all the noise we're making. Then imagine being a whale."
+  image: whales.jpg
+  name: "Drowned Out"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/whales/"
+- 
+  date: "June 2, 2015"
+  description: "A hi-def test for your ears (and your audio equipment): Listen to these songs and see if you can tell the difference between an MP3 and an uncompressed audio file."
+  image: audio-quiz.jpg
+  name: "How Well Can You Hear Audio Quality?"
+  repo: "nprapps/graphics-archive"
+  url: "http://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality"
+- 
+  date: "June 9, 2015"
+  description: "We asked you to listen to six songs at different audio qualities. Most listeners had a hard time telling the difference between a low-quality MP3 and a lossless WAV."
+  image: quiz-results.png
+  name: "Audio Quality Quiz Results: You Did Slightly Better Than Guessing Randomly"
+  repo: "nprapps/graphics-archive"
+  url: "http://www.npr.org/sections/therecord/2015/06/09/412271433/audio-quality-quiz-results-you-did-slightly-better-than-guessing-randomly"
+- 
+  date: "June 5, 2015"
+  description: "Graduation rates have been rising since 2002. NPR Ed enlisted the help of 14 reporters at member stations around the country to find out why."
+  image: grad-rates.jpg
+  name: "The Truth About America's Graduation Rate"
+  repo: "nprapps/grad-rates"
+  url: "http://apps.npr.org/grad-rates/"
+- 
+  date: "July 15, 2015"
+  description: "In Afghanistan, men do most of the talking. So we went to a school and talked to kids. We met girls and boys who have big dreams. But is their country ready for them?"
+  image: afghan-girls.jpg
+  name: "A Girl Can Dream"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/afghan-teens/"
+- 
+  date: "July 28, 2015"
+  description: "When designer Denise Burt started making classical music album covers, she knew nothing about the music. That might have been to her advantage. Check out eight of her visual creations -- and then hear the music that inspired them."
+  image: album-art.jpg
+  name: "What Does Music Look Like?"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/album-art/"
+- 
+  date: "August 21, 2015"
+  description: "Sanaa, Yemen, one of the oldest and most treasured cities in the world, became a battleground this summer. Photographer Alex Potter was there when the unthinkable happened, and bore witness to the cost of a war on civilians."
+  image: unthinkable.jpg
+  name: "The Unthinkable"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/yemen/"
