@@ -6,45 +6,14 @@
   name: SoundCite
   repo: "nuknightlab/soundcite"
   url: "http://soundcite.knightlab.com"
-- 
-  date: "April 2013 - May 2013, May 2014"
-  description: ""
-  image: housing.png
-  name: "North by Northwestern Housing Guide"
-  repo: "tylerfisher/housing2"
-  url: "http://apps.northbynorthwestern.com/housing"
-- 
-  date: "Fall 2013"
-  description: ""
-  image: learn.png
-  name: learn.knightlab.com
-  repo: "tylerfisher/learn"
-  url: "http://learn.knightlab.com/"
+  role: "Creator, developer"
 - 
   date: "October 2013"
   description: "News Developer First Projects compiles submissions of the first interactive news project published by various news developers, including employees of NPR, The New York Times, The Washington Post and other major organizations. They are uniformly terrible."
   image: newsdevfirsts.png
   name: "News Developer First Projects"
   url: "http://newsdevfirsts.tumblr.com"
-- 
-  date: "February 3, 2014"
-  description: "My first project with the NPR Visuals Team, Wolves at the Door is a photo essay that uses natural ambient audio as a textural element."
-  image: wolves.png
-  name: "Wolves at the Door"
-  repo: "nprapps/wolves"
-  url: "http://apps.npr.org/wolves"
-- 
-  date: "February 2014"
-  description: "In preparation for a presentation, I was looking for convincing arguments written by smart people on why journalists should learn to code. While I found some, I wanted more, and I wanted more concise arguments."
-  image: why.png
-  name: "Why Should Journalists Code?"
-  url: "http://whyshouldjournalistscode.tumblr.com"
-- 
-  date: "March 6, 2014"
-  description: "America’s effort to bring home its war dead is slow, inefficient and stymied by outdated methods."
-  image: grave-science.png
-  name: "Grave Science"
-  url: "http://apps.npr.org/grave-science"
+  role: "Creator, curator"
 - 
   date: "April 3, 2014"
   description: "As a member of the NPR Visuals Team, I developed Borderland, a series of 12 short stories about the U.S.-Mexico border. The stories are told in a slideshow format that puts images first, and the stories are told through a variety of methods."
@@ -52,6 +21,7 @@
   name: Borderland
   repo: "nprapps/borders-map"
   url: "http://apps.npr.org/borderland"
+  role: "Front-end developer"
 - 
   date: "September 2, 2014"
   description: ""
@@ -59,13 +29,7 @@
   name: "MRAPs And Bayonets: What We Know About The Pentagon's 1033 Program"
   repo: "nprapps/leso"
   url: "http://www.npr.org/2014/09/02/342494225/mraps-and-bayonets-what-we-know-about-the-pentagons-1033-program"
-- 
-  date: "September 2, 2014"
-  description: "New Orleans is home to the nation’s first all-charter district. Is this the future of education?"
-  image: nola.png
-  name: "The End of Neighbhorhood Schools"
-  repo: "nprapps/nola"
-  url: "http://apps.npr.org/the-end-of-neighborhood-schools"
+  role: "Data reporter, graphics developer"
 - 
   date: "November 4, 2014"
   description: "Stream election results, data and news, NPR-style. Optimized for your TV, Chromecast or coffee table. #nprparty"
@@ -73,20 +37,7 @@
   name: "NPR Election Party"
   repo: "nprapps/elections14"
   url: "http://elections.npr.org"
-- 
-  date: "December 10, 2014"
-  description: "Put on your headphones and listen to more than 300 of NPR Music's favorite songs from 2014."
-  image: best-songs.png
-  name: "Songs We Love 2014"
-  repo: "nprapps/bestsongs14"
-  url: "http://apps.npr.org/best-songs-2014"
-- 
-  date: "February 14, 2015"
-  description: "While looking through old family photos as a kid, John Fugelsang discovered something strange about his mother. Hint: It had to do with being Catholic."
-  image: lovestory.png
-  name: "A Brother And Sister Fall In Love"
-  repo: "nprapps/lookatthis"
-  url: "http://apps.npr.org/lookatthis/posts/lovestory"
+  role: "Full stack developer"
 - 
   date: "February 20, 2015"
   description: "The world is starting to forget about Ebola. The village of Barkedu can't."
@@ -94,13 +45,7 @@
   name: "Life After Death"
   repo: "nprapps/barkedu"
   url: "http://apps.npr.org/life-after-death"
-- 
-  date: "February 20, 2015"
-  description: "Thomas Allen Harris made an entire film about photos. In a two-minute audio short, he shares just one -- of his grandparents -- and explains what it has to do with the American family photo album."
-  image: harrisloves.jpg
-  name: "Photo I Love: Thomas Allen Harris"
-  repo: "nprapps/lookatthis"
-  url: "http://apps.npr.org/lookatthis/posts/harrisloves"
+  role: "Front-end developer"
 - 
   date: "March 27, 2015"
   description: "Not many people can say they've Tweeted selfies from a spacewalk. Astronaut Reid Wiseman can. Back on Earth, he shares a few of his #spacetweets -- and one photo he really loves."
@@ -108,20 +53,7 @@
   name: "Photo I Love: Reid Wiseman"
   repo: "nprapps/lookatthis"
   url: "http://apps.npr.org/lookatthis/posts/spacepix"
-- 
-  date: "April 27, 2015"
-  description: "Last year, 21,000 inmates were released in Huntsville, Texas -- one of the largest prison towns in America. For most of them, the gateway to the free world is the Huntsville Greyhound station. Here is the story by John Burnett, with photos by David Gilkey."
-  image: bus-station.jpg
-  name: "The Bus Station"
-  repo: "nprapps/lookatthis"
-  url: "http://apps.npr.org/lookatthis/posts/bus-station"
-- 
-  date: "May 22, 2015"
-  description: "Scientist Chris Clark has been listening to whales for decades. But he says it's getting harder to hear them -- and for them to hear each other. Listen to all the noise we're making. Then imagine being a whale."
-  image: whales.jpg
-  name: "Drowned Out"
-  repo: "nprapps/lookatthis"
-  url: "http://apps.npr.org/lookatthis/posts/whales/"
+  role: "Front-end developer"
 - 
   date: "June 2, 2015"
   description: "A hi-def test for your ears (and your audio equipment): Listen to these songs and see if you can tell the difference between an MP3 and an uncompressed audio file."
@@ -129,6 +61,7 @@
   name: "How Well Can You Hear Audio Quality?"
   repo: "nprapps/graphics-archive"
   url: "http://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality"
+  role: "Creator, developer"
 - 
   date: "June 9, 2015"
   description: "We asked you to listen to six songs at different audio qualities. Most listeners had a hard time telling the difference between a low-quality MP3 and a lossless WAV."
@@ -136,20 +69,7 @@
   name: "Audio Quality Quiz Results: You Did Slightly Better Than Guessing Randomly"
   repo: "nprapps/graphics-archive"
   url: "http://www.npr.org/sections/therecord/2015/06/09/412271433/audio-quality-quiz-results-you-did-slightly-better-than-guessing-randomly"
-- 
-  date: "June 5, 2015"
-  description: "Graduation rates have been rising since 2002. NPR Ed enlisted the help of 14 reporters at member stations around the country to find out why."
-  image: grad-rates.jpg
-  name: "The Truth About America's Graduation Rate"
-  repo: "nprapps/grad-rates"
-  url: "http://apps.npr.org/grad-rates/"
-- 
-  date: "July 15, 2015"
-  description: "In Afghanistan, men do most of the talking. So we went to a school and talked to kids. We met girls and boys who have big dreams. But is their country ready for them?"
-  image: afghan-girls.jpg
-  name: "A Girl Can Dream"
-  repo: "nprapps/lookatthis"
-  url: "http://apps.npr.org/lookatthis/posts/afghan-teens/"
+  role: "Writer, graphics developer"
 - 
   date: "July 28, 2015"
   description: "When designer Denise Burt started making classical music album covers, she knew nothing about the music. That might have been to her advantage. Check out eight of her visual creations -- and then hear the music that inspired them."
@@ -157,6 +77,7 @@
   name: "What Does Music Look Like?"
   repo: "nprapps/lookatthis"
   url: "http://apps.npr.org/lookatthis/posts/album-art/"
+  role: "Front-end developer"
 - 
   date: "August 21, 2015"
   description: "Sanaa, Yemen, one of the oldest and most treasured cities in the world, became a battleground this summer. Photographer Alex Potter was there when the unthinkable happened, and bore witness to the cost of a war on civilians."
@@ -164,3 +85,28 @@
   name: "The Unthinkable"
   repo: "nprapps/lookatthis"
   url: "http://apps.npr.org/lookatthis/posts/yemen/"
+  role: "Front-end developer"
+-
+  date: "November 03, 2015"
+  description: "NPR's earbud.fm is your friendly guide to over 200 great podcast episodes."
+  image: earbud.jpg
+  name: "Earbud.fm"
+  repo: "nprapps/podcast-concierge"
+  url: "http://earbud.fm"
+  role: "Full stack developer"
+- 
+  date: "November 12, 2015"
+  description: "The rain forest is like the planet's air conditioner. Without it, things could get really hot and try. The good news is: Brazil has already done more than most countries to protect the rain forest. The bad news is: A fifth of its rain forest is already gone. What happens next has the potential to affect us all."
+  image: rainforest.jpg
+  name: "Rainforest Was Here"
+  repo: "nprapps/lookatthis"
+  url: "http://apps.npr.org/lookatthis/posts/brazil/"
+  role: "Data reporter, graphics developer, front-end developer"
+- 
+  date: "December 15, 2015"
+  description: "Songs We Love 2015 is a compilation of public radio's favorite songs of the year, brought to you by NPR Music."
+  image: songswelove15.jpg
+  name: "Songs We Love 2015"
+  repo: "nprapps/bestsongs15"
+  url: "http://apps.npr.org/best-songs-2015"
+  role: "Front-end developer"

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 class="page-title">Portfolio</h1>
+<h1 class="page-title">Selected Portfolio</h1>
 
 {% for app in site.data.apps reversed %}
     <div class="project pure-g">
@@ -14,6 +14,7 @@ layout: default
             </h2>
             <span class="post-meta">{{ app.date }} {% if app.repo %} (<a href="http://github.com/{{ app.repo }}">Repo</a>) {% endif %}</a></span>
             <p class="app-description">{{ app.description }}</p>
+            <p class="app-roles"><strong>Role:</strong> {{ app.role }}</p>
         </div>
     </div>
 {% endfor %}
