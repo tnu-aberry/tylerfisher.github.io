@@ -173,10 +173,28 @@ img {
     h2 {
         margin: 0;
     }
-    p {
+    p, ul, li {
         font-size: 16px;
+        list-style: none;
+        padding: 0;
+
+        strong {
+            font-family: $header-font-family;
+            text-transform: uppercase;
+        }
     }
 }
+
+ul, li {
+    display: inline;
+}
+
+li:not(:last-child) {
+    &:after {
+        content: '; '
+    }
+}
+
 
 .resume {
     .item {

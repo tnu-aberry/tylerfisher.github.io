@@ -22,6 +22,9 @@
   repo: "nprapps/borders-map"
   url: "http://apps.npr.org/borderland"
   role: "Front-end developer"
+  awards:
+    - "Overseas Press Club: Best Multimedia News Presentation Award"
+    - "SND Digital Awards of Excellence: Use of multimedia and Features: Single-subject project"
 - 
   date: "September 2, 2014"
   description: ""
@@ -38,6 +41,20 @@
   repo: "nprapps/elections14"
   url: "http://elections.npr.org"
   role: "Full stack developer"
+  awards:
+    - "Online Journalism Awards: Planned News/Events, Large"
+    - "SND Digital Silver Medal: Special Events"
+- 
+  date: "February 14, 2015"
+  description: "While looking through old family photos as a kid, John Fugelsang discovered something strange about his mother. Hint: It had to do with being Catholic."
+  image: lovestory.png
+  name: "A Brother And Sister In Love"
+  repo: "nprapps/lookatthis/tree/master/posts/fugelsang"
+  url: "http://apps.npr.org/lookatthis/posts/lovestory"
+  role: "Front-end developer"
+  awards:
+    - "National Press Photographers Assocation, Feature Multimedia Package, Second Place"
+    - "White House News Photographer Association, Feature Story, Second Place"
 - 
   date: "February 20, 2015"
   description: "The world is starting to forget about Ebola. The village of Barkedu can't."
@@ -46,12 +63,14 @@
   repo: "nprapps/barkedu"
   url: "http://apps.npr.org/life-after-death"
   role: "Front-end developer"
+  awards:
+    - "World Press Photo: Immersive Storytelling shortlist"
 - 
   date: "March 27, 2015"
   description: "Not many people can say they've Tweeted selfies from a spacewalk. Astronaut Reid Wiseman can. Back on Earth, he shares a few of his #spacetweets -- and one photo he really loves."
   image: spacetweets.jpg
   name: "Photo I Love: Reid Wiseman"
-  repo: "nprapps/lookatthis"
+  repo: "nprapps/lookatthis/tree/master/posts/astroreid-loves"
   url: "http://apps.npr.org/lookatthis/posts/spacepix"
   role: "Front-end developer"
 - 
@@ -59,7 +78,7 @@
   description: "A hi-def test for your ears (and your audio equipment): Listen to these songs and see if you can tell the difference between an MP3 and an uncompressed audio file."
   image: audio-quiz.jpg
   name: "How Well Can You Hear Audio Quality?"
-  repo: "nprapps/graphics-archive"
+  repo: "nprapps/graphics-archive/tree/master/2015/06/streaming-quiz-20150519"
   url: "http://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality"
   role: "Creator, developer"
 - 
@@ -67,7 +86,6 @@
   description: "We asked you to listen to six songs at different audio qualities. Most listeners had a hard time telling the difference between a low-quality MP3 and a lossless WAV."
   image: quiz-results.png
   name: "Audio Quality Quiz Results: You Did Slightly Better Than Guessing Randomly"
-  repo: "nprapps/graphics-archive"
   url: "http://www.npr.org/sections/therecord/2015/06/09/412271433/audio-quality-quiz-results-you-did-slightly-better-than-guessing-randomly"
   role: "Writer, graphics developer"
 - 
@@ -75,7 +93,7 @@
   description: "When designer Denise Burt started making classical music album covers, she knew nothing about the music. That might have been to her advantage. Check out eight of her visual creations -- and then hear the music that inspired them."
   image: album-art.jpg
   name: "What Does Music Look Like?"
-  repo: "nprapps/lookatthis"
+  repo: "nprapps/lookatthis/tree/master/posts/new-music"
   url: "http://apps.npr.org/lookatthis/posts/album-art/"
   role: "Front-end developer"
 - 
@@ -83,7 +101,7 @@
   description: "Sanaa, Yemen, one of the oldest and most treasured cities in the world, became a battleground this summer. Photographer Alex Potter was there when the unthinkable happened, and bore witness to the cost of a war on civilians."
   image: unthinkable.jpg
   name: "The Unthinkable"
-  repo: "nprapps/lookatthis"
+  repo: "nprapps/lookatthis/tree/master/posts/yemen"
   url: "http://apps.npr.org/lookatthis/posts/yemen/"
   role: "Front-end developer"
 -
@@ -91,17 +109,20 @@
   description: "NPR's earbud.fm is your friendly guide to over 200 great podcast episodes."
   image: earbud.jpg
   name: "Earbud.fm"
-  repo: "nprapps/podcast-concierge"
   url: "http://earbud.fm"
   role: "Full stack developer"
+  awards: 
+    - "Quartz Casties: Best Software (desktop)"
 - 
   date: "November 12, 2015"
-  description: "The rain forest is like the planet's air conditioner. Without it, things could get really hot and try. The good news is: Brazil has already done more than most countries to protect the rain forest. The bad news is: A fifth of its rain forest is already gone. What happens next has the potential to affect us all."
+  description: "The rain forest is like the planet's air conditioner. Without it, things could get really hot and dry."
   image: rainforest.jpg
   name: "Rainforest Was Here"
-  repo: "nprapps/lookatthis"
+  repo: "nprapps/lookatthis/tree/master/posts/brazil"
   url: "http://apps.npr.org/lookatthis/posts/brazil/"
   role: "Data reporter, graphics developer, front-end developer"
+  awards: 
+    - "SND Digital Silver Medal for Features: Single Subject Project"
 - 
   date: "December 15, 2015"
   description: "Songs We Love 2015 is a compilation of public radio's favorite songs of the year, brought to you by NPR Music."
