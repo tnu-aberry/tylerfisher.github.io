@@ -7,6 +7,8 @@
   repo: "nuknightlab/soundcite"
   url: "http://soundcite.knightlab.com"
   role: "Creator, developer"
+  awards:
+    - "Online Journalism Awards: Gannett Foundation Technical Innovation in the Service of Digital Journalism Award"
 - 
   date: "October 2013"
   description: "News Developer First Projects compiles submissions of the first interactive news project published by various news developers, including employees of NPR, The New York Times, The Washington Post and other major organizations. They are uniformly terrible."
@@ -131,3 +133,11 @@
   repo: "nprapps/bestsongs15"
   url: "http://apps.npr.org/best-songs-2015"
   role: "Front-end developer"
+- 
+  date: "February 1, 2016"
+  description: "NPR's Elections 2016: For every primary, caucus and convention, we’re here to help you get caught up and understand what matters this election season."
+  image: elections16.png
+  name: "Elections 2016"
+  repo: "nprapps/elections16"
+  url: "http://elections.npr.org"
+  role: "Full-stack developer"
