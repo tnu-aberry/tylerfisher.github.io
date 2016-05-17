@@ -4,23 +4,43 @@ layout: default
 
 <div class="resume">
 
-	<h2>Experience</h2>
-	{% for job in site.data.resume.experience %}
-	<div class="job item">
-		<h3>{{ job.company }} ({{ job.dates }})</h3>
-		<h4>{{ job.title }}</h4>
-		<p>{{ job.description }}</p>
+	<div class="experience">
+		<h2>Experience</h2>
+		{% for job in site.data.resume.experience %}
+		<div class="job item">
+			<h3>{{ job.company }} ({{ job.dates }})</h3>
+			<h4>{{ job.title }}</h4>
+			<ul>
+				{% for item in job.description %}
+				<li>{{ item }}</li>
+				{% endfor %}
+			</ul>
+		</div>
+		{% endfor %}
 	</div>
-	{% endfor %}
 
-	<h2>Education</h2>
-	{% for school in site.data.resume.education %}
+	<div class="education">
+		<h2>Education</h2>
+		{% for school in site.data.resume.education %}
 
-	<div class="school item">
-		<h3>{{ school.school }} ({{ school.graduation_date }})</h3>
-		<h4>{{ school.diploma }}</h4>
-		<p>{{ school.score }}</p>
+		<div class="school item">
+			<h3>{{ school.school }} ({{ school.graduation_date }})</h3>
+			<h4>{{ school.diploma }}</h4>
+		</div>
+		{% endfor %}
+
+		<div class="awards">
+			<h2>Selected Awards</h2>
+			<ul>
+				<li><strong>2016 National Press Photographers Assocation:</strong> Best Visual Column or Blog</li>
+				<li><strong>2016 World Press Photo:</strong> Immersive Storytelling, Second Place</li>
+				<li><strong>2015 Quartz Casties:</strong> Best Software (desktop)</li>
+				<li><strong>2015 Online Journalism Awards:</strong> Planned News/Events, Large</li>
+				<li><strong>2015 SND Digital:</strong> Team Portfolio, Silver Medal</li>
+				<li><strong>2014 Overseas Press Club:</strong> Best Multimedia News Presentation</li>
+				<li><strong>2014 Online Journalism Awards:</strong> Gannett Foundation Technical Innovation in the Service of Digital Journalism Award</li>
+			</ul>
+		</div>
 	</div>
-{% endfor %}
 </div>
 

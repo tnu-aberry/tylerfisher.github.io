@@ -2,41 +2,54 @@ experience:
   - 
     company: NPR
     title: News Applications Developer
-    dates: "March 2014 - Present"
-    description: "I work as a full-stack developer on news applications for the NPR Visuals Team. We're a team of designers, developers, editors, photographers and producers that touch every visual in NPR's news operation. I focus on long-term projects and our ongoing series <a href='http://lookatthisstory.tumblr.com'>Look At This</a>."
-  -
-    company: NPR
-    title: News Applications Intern
-    dates: "2014"
-    description: "I joined NPR as an intern for the Visuals team. I was treated as a full member of the team, and had much of the same responsibilities listed above."
+    dates: "January 2014 - Present"
+    description:
+        - Worked collaboratively as a full-stack developer (Python, JavaScript, PostgreSQL, Ubuntu) on the NPR Visuals Team &ndash; a team of designers, developers, photographers, producers and editors &ndash; on visual storytelling projects.
+        - Led development of award-winning Look At This, an ongoing project experimenting with photo-driven sequential visual storytelling.
+        - Maintained multiple open-source tools, including Lunchbox, a suite of social media image creation tools; the team's app template, a Flask-based tool for creating static websites; pym.js, a JavaScript library for embedding iframes responsively; and dailygraphics, a Flask and d3.js-based project for creating code-based graphics and keeping them in version control.
+        - Released almost all story-driven projects as open-source software.
+        - Architected measurement of custom metrics for team projects and produced internal team reports on those metrics.
+  - 
+    company: Medill School of Journalism
+    title: Adjunct Professor
+    dates: "Fall 2015"
+    description: 
+        - Taught postgraduate students in Northwestern's National Security Reporting Project about web-native visual storytelling.
+        - Assisted student designer and developer with creation of the class's final project website.
   - 
     company: Northwestern University Knight Lab
     title: Undergraduate Fellow
     dates: "2012 - 2014"
-    description: "I developed <a href='soundcite.knightlab.com'>Soundcite.js</a> and helped develop curriculum and programming for the Knight Lab to teach students at Northwestern how to code for journalism."
+    description:
+        - Created and developed SoundCite, a tool for creating inline audio citations.
+        - Built curriculum for new Knight Lab fellows to learn basic HTML, CSS and JavaScript
+        - Recruited new Knight Lab fellows
   -
     company: Medill School of Journalism
     title: Teaching Assistant
     dates: "Spring 2013, Spring 2014"
-    description: "For two quarters, I helped with the &ldquo;Unclass&rdquo;, a class designed to teach digital skills to a wide variety of students and skillsets. I taught workshops on topics like version control, basic JavaScript and data visualization."
+    description: 
+        - Taught workshops on version control, JavaScript, data visualization and more
+        - Helped architect curriculum that adapted to different student skill levels.
   - 
     company: Gannett Digital
     title: Content Intern
     dates: "2013"
-    description: "I worked with the Content Team at Gannett digital building custom news applications and templated data visualizations for various Gannett properties."
+    description: 
+        - Built custom news applications for USA Today
+        - Reported and developed data-driven stories on demographic population data
   - 
     company: Chicago Tribune
     title: News Applications Intern
     dates: "2012"
-    description: "I worked with the Chicago Tribune News Applications Team, specifically focusing on the launch of the Chicago Tribune Member Center."
+    description:
+        - Assisted in development of the Chicago Tribune Member Center, a portal where digital subscribers of the Chicago Tribune could access special benefits
 education:
   -
     school: Northwestern University
     diploma: Bachelor of Science in Journalism
     graduation_date: "2014"
-    score: '3.66/4.0, cum laude'
   -
     school: Armand Hammer United World College of the American West
     diploma: International Baccalaureate
     graduation_date: "2010"
-    score: '36/42'

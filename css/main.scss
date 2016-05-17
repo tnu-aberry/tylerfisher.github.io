@@ -18,8 +18,8 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$brand-color:      $grey-color-dark;
-$link-color:       rgb(61, 146, 201);
+$brand-color:      #4B6892;
+$link-color:       lighten($brand-color, 20%);
 
 // Width of the content area
 $content-width:    800px;
