@@ -302,10 +302,17 @@
         background-color: #4B6892 !important;
         -webkit-print-color-adjust: exact; 
         padding: 0.25em 0;
+        .nameplate {
+            max-width: 250px;
+            margin: 0 auto;
+            // border: 2px outset white;
+            padding: 10px;
+        }
+
         .brand-title {
             font-size: 24px;
             text-align: center;
-            margin-bottom: 0;
+            margin: 0;
             color: white !important;
         }
         .brand-tagline {
@@ -318,7 +325,7 @@
         .contact-info {
             font-size: 12px;
             text-align: center;
-            margin: 5px 0 10px;
+            margin: 5px 0 0;
             color: white;
             font-weight: bold;
             p {
@@ -336,7 +343,7 @@
 
         .experience {
             width: 75%;
-            border-right: 1px solid black;
+            // border-right: 1px solid black;
             padding: 0 10px;
         }
         .education {
@@ -350,7 +357,15 @@
             }
 
             li:not(:last-child) {
-                border-bottom: 1px solid black;
+                // border-bottom: 1px solid black;
+            }
+
+            .awards ul {
+                padding: 0;
+            }
+
+            .awards li:first-child {
+                padding: 0 0 5px;
             }
         }
 
@@ -362,6 +377,8 @@
         h2 {
             font-size: 16px;
             margin-bottom: 5px;
+            border-bottom: 2px solid black;
+            padding-bottom: 5px;
         }
         p, ul, li {
             font-size: 12px;
