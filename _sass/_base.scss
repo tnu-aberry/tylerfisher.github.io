@@ -303,17 +303,18 @@
         -webkit-print-color-adjust: exact; 
         padding: 0.25em 0;
         .nameplate {
-            max-width: 250px;
+            max-width: 400px;
             margin: 0 auto;
             // border: 2px outset white;
             padding: 10px;
         }
 
         .brand-title {
-            font-size: 24px;
+            font-size: 36px;
             text-align: center;
             margin: 0;
             color: white !important;
+            letter-spacing: 0.15em;
         }
         .brand-tagline {
             font-size: 16px;
@@ -327,7 +328,6 @@
             text-align: center;
             margin: 5px 0 0;
             color: white;
-            font-weight: bold;
             p {
                 margin: 0;
             }
@@ -377,8 +377,9 @@
         h2 {
             font-size: 16px;
             margin-bottom: 5px;
-            border-bottom: 2px solid black;
+            border-bottom: 2px solid $brand-color;
             padding-bottom: 5px;
+            color: $brand-color;
         }
         p, ul, li {
             font-size: 12px;
