@@ -141,3 +141,11 @@
   repo: "nprapps/elections16"
   url: "http://elections.npr.org"
   role: "Full-stack developer"
+- 
+  date: "July 20, 2016"
+  description: "Take a virtual reality tour and immerse yourself in the sights and sounds of Rocky Mountain National Park."
+  image: rockymountain.jpg
+  name: "Stand At The Edge Of Geologic Time"
+  repo: "nprapps/rockymountain"
+  url: "http://apps.npr.org/rockymountain-vr"
+  role: "Front-end developer"
