@@ -4,24 +4,24 @@ experience:
     title: News Applications Developer
     dates: "January 2014 - Present"
     description:
-        - Work collaboratively as a full-stack developer (Python, JavaScript, PostgreSQL, Ubuntu) on the NPR Visuals Team &ndash; a team of designers, developers, photographers, producers and editors &ndash; on visual storytelling projects.
-        - Lead development of award-winning Look At This, an ongoing project experimenting with photo-driven sequential visual storytelling.
-        - Maintain multiple open-source tools, including Lunchbox, a suite of social media image creation tools; the team's app template, a Flask-based tool for creating static websites; pym.js, a JavaScript library for embedding iframes responsively; and dailygraphics, a Flask and d3.js-based project for creating code-based graphics and keeping them in version control.
-        - Release almost all story-driven projects as open-source software.
-        - Architect measurement of custom metrics for team projects and produced internal team reports on those metrics.
+        - Work collaboratively as a full-stack developer (Python, JavaScript, PostgreSQL, Ubuntu) on the NPR Visuals Team &ndash; a team of designers, developers, photographers, producers and editors &ndash; on visual storytelling projects
+        - Lead development of award-winning Look At This, an ongoing project experimenting with photo-driven sequential visual storytelling
+        - Maintain multiple open-source tools, including Lunchbox, a suite of social media image creation tools; the team's app template, a Flask-based tool for creating static websites; pym.js, a JavaScript library for embedding iframes responsively; and dailygraphics, a Flask and d3.js-based project for creating code-based graphics and keeping them in version control
+        - Release almost all story-driven projects as open-source software
+        - Architect measurement of custom metrics for team projects and produce internal team reports on those metrics
   - 
     company: Medill School of Journalism
     title: Adjunct Professor
     dates: "Fall 2015"
     description: 
-        - Taught postgraduate students in Northwestern's National Security Reporting Project about web-native visual storytelling.
-        - Assisted student designer and developer with creation of the class's final project website.
+        - Taught postgraduate students in Northwestern's National Security Reporting Project about web-native visual storytelling
+        - Assisted student designer and developer with creation of the class's final project website
   - 
     company: Northwestern University Knight Lab
     title: Undergraduate Fellow
     dates: "2012 - 2014"
     description:
-        - Created and developed SoundCite, a tool for creating inline audio citations.
+        - Created and developed SoundCite, a tool for creating inline audio citations
         - Built curriculum for new Knight Lab fellows to learn basic HTML, CSS and JavaScript
         - Recruited new Knight Lab fellows
   -
@@ -30,7 +30,7 @@ experience:
     dates: "Spring 2013, Spring 2014"
     description: 
         - Taught workshops on version control, JavaScript, data visualization and more
-        - Helped architect curriculum that adapted to different student skill levels.
+        - Helped architect curriculum that adapted to different student skill levels
   - 
     company: Gannett Digital
     title: Content Intern

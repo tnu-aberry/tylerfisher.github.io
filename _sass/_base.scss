@@ -202,7 +202,7 @@
 
 
     .resume {
-        .awards {
+        .awards, .references {
             display: none;
         }
         .item {
@@ -360,11 +360,11 @@
                 // border-bottom: 1px solid black;
             }
 
-            .awards ul {
+            .awards ul, .references ul {
                 padding: 0;
             }
 
-            .awards li:first-child {
+            .awards li:first-child, .references li:first-child {
                 padding: 0 0 5px;
             }
         }
@@ -401,5 +401,19 @@
                 font-size: 12px;
             }
         }
+    }
+
+    .post {
+        .post-header { display: none; }
+        article { 
+            max-width: 600px; 
+            margin: 0 auto;
+        }
+
+        p {
+            font-size: 12px;
+        }
+
+        a { text-decoration: underline; }
     }
 }
