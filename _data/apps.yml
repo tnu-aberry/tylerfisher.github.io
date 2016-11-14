@@ -134,14 +134,6 @@
   url: "http://apps.npr.org/best-songs-2015"
   role: "Front-end developer"
 - 
-  date: "February 1, 2016"
-  description: "NPR's Elections 2016: For every primary, caucus and convention, we’re here to help you get caught up and understand what matters this election season."
-  image: elections16.png
-  name: "Elections 2016"
-  repo: "nprapps/elections16"
-  url: "http://elections.npr.org"
-  role: "Full-stack developer"
-- 
   date: "July 20, 2016"
   description: "Take a virtual reality tour and immerse yourself in the sights and sounds of Rocky Mountain National Park."
   image: rockymountain.jpg
