@@ -149,3 +149,19 @@
   repo: "nprapps/rockymountain"
   url: "http://apps.npr.org/rockymountain-vr"
   role: "Front-end developer"
+- 
+  date: "September 26 - October 19, 2016"
+  description: "Fully annotated and fact-checked transcripts of every presidential and vice presidential debate in the 2016 General Election."
+  image: debates.png
+  name: "Fact Check and Full Transcript of the 2016 Presidential Debates"
+  repo: "nprapps/debates"
+  url: "http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate"
+  role: "Full-stack developer"
+- 
+  date: "November 8, 2016"
+  description: "Live-updating results displays of the 2016 General Election for the presidential race, Senate race, House races, gubernatorial races, ballot measures, and state-level results."
+  image: bigboard.png
+  name: "Live Results of the 2016 General Election"
+  repo: "nprapps/elections16-general"
+  url: "http://www.npr.org/2016/11/08/500927768/2016-presidential-election-results-for-each-state"
+  role: "Full-stack developer"
