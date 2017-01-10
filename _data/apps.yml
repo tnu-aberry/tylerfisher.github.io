@@ -47,6 +47,14 @@
     - "Online Journalism Awards: Planned News/Events, Large"
     - "SND Digital Silver Medal: Special Events"
 - 
+  date: "December 30, 2014"
+  description: "From the VA and Secret Service scandals to Ebola, each week brought another hot issue into the White House briefing room. Here's a look at just how short the press corps' attention span was in 2014."
+  image: white-house.png
+  name: "The Fleeting Obsessions Of The White House Press Corps"
+  repo: "nprapps/wh-press-briefings"
+  url: "http://www.npr.org/2014/12/30/373738692/the-fleeting-obsessions-of-the-white-house-press-corps"
+  role: "Data reporter"
+- 
   date: "February 14, 2015"
   description: "While looking through old family photos as a kid, John Fugelsang discovered something strange about his mother. Hint: It had to do with being Catholic."
   image: lovestory.png
@@ -76,6 +84,14 @@
   url: "http://apps.npr.org/lookatthis/posts/spacepix"
   role: "Front-end developer"
 - 
+  date: "April 1, 2015"
+  description: "The nation's largest retailer is known for sprawling suburban and rural stores. Now Wal-Mart is moving into city centers — sometimes despite strong local opposition."
+  image: walmart.png
+  name: "The Urban Neighborhood Wal-Mart: A Blessing Or A Curse?"
+  repo: "nprapps/walmart"
+  url: "http://www.npr.org/2015/04/01/396757476/the-neighborhood-wal-mart-a-blessing-or-a-curse"
+  role: "Data reporter"
+- 
   date: "June 2, 2015"
   description: "A hi-def test for your ears (and your audio equipment): Listen to these songs and see if you can tell the difference between an MP3 and an uncompressed audio file."
   image: audio-quiz.jpg
@@ -90,14 +106,6 @@
   name: "Audio Quality Quiz Results: You Did Slightly Better Than Guessing Randomly"
   url: "http://www.npr.org/sections/therecord/2015/06/09/412271433/audio-quality-quiz-results-you-did-slightly-better-than-guessing-randomly"
   role: "Writer, graphics developer"
-- 
-  date: "July 28, 2015"
-  description: "When designer Denise Burt started making classical music album covers, she knew nothing about the music. That might have been to her advantage. Check out eight of her visual creations -- and then hear the music that inspired them."
-  image: album-art.jpg
-  name: "What Does Music Look Like?"
-  repo: "nprapps/lookatthis/tree/master/posts/new-music"
-  url: "http://apps.npr.org/lookatthis/posts/album-art/"
-  role: "Front-end developer"
 - 
   date: "August 21, 2015"
   description: "Sanaa, Yemen, one of the oldest and most treasured cities in the world, became a battleground this summer. Photographer Alex Potter was there when the unthinkable happened, and bore witness to the cost of a war on civilians."
