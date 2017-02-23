@@ -4,7 +4,8 @@ experience:
     title: News Applications Developer
     dates: "January 2014 - Present"
     description:
-        - Work collaboratively as a full-stack developer (Python, JavaScript, PostgreSQL, Ubuntu) on the NPR Visuals Team &ndash; a team of designers, developers, photographers, producers and editors &ndash; on visual storytelling projects
+        - Work collaboratively as a full-stack developer (JavaScript, Python, PostgreSQL, Ubuntu) on the NPR Visuals Team &ndash; a team of designers, developers, photographers, producers and editors &ndash; on data-driven and visual storytelling projects
+        - Lead technical development of front-end practice, introducing npm, Webpack, and virtual DOM-based frameworks.
         - Lead development of award-winning Look At This, an ongoing project experimenting with photo-driven sequential visual storytelling
         - Maintain multiple open-source tools, including Lunchbox, a suite of social media image creation tools; the team's app template, a Flask-based tool for creating static websites; pym.js, a JavaScript library for embedding iframes responsively; and dailygraphics, a Flask and d3.js-based project for creating code-based graphics and keeping them in version control
         - Release almost all story-driven projects as open-source software
