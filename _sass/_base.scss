@@ -53,7 +53,8 @@
     }
 
     .sidebar {
-        background: $brand-color;
+        background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+        // background: $brand-color;
         color: #fff;
 
         .brand-title,
