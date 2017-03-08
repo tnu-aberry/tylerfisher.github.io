@@ -164,6 +164,37 @@
         }
     }
 
+    .intro {
+        background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+        .content {
+            padding: 0;
+            margin-left: 0;
+        }
+    }
+
+    .introduction {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    .intro-line {
+        text-align: center;
+        h1 { 
+            font-family: $base-font-family;
+            text-transform: none;
+            color: white;
+            font-size: 3em;
+            font-weight: normal;
+        }
+        a {
+            font-size: 1.5em;
+            color: white;
+            text-decoration: underline;
+        }
+    }
+
     .project, .post-preview {
         margin-bottom: 2em;
 
@@ -173,6 +204,12 @@
             @media (min-width: 48em) {
                 font-size: 1.5em;
             }
+        }
+        padding-bottom: 2em;
+        border-bottom: 1px solid #ccc;
+
+        &:last-child {
+            border: none;
         }
     }
     .app-info, .posts {
